@@ -1,7 +1,7 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
-class Core {
+class CRCore {
     var out = ""
     
     func printCore() {

@@ -3,7 +3,7 @@ import XCTest
 
 final class CoreTests: XCTestCase {
     func testExample() throws {
-        var cl = Core()
+        var cl = CRCore()
         
         
         XCTAssertEqual(cl.out, "")
