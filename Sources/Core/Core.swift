@@ -7,5 +7,6 @@ class Core {
     func printCore() {
         out = "printCore"
         print("printCore")
+        print("done")
     }
 }
